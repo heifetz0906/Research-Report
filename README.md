@@ -35,7 +35,7 @@ void WIFI_PDNPIN_SET(void)
 
 extern void nmea_decode_test(void);
 
-/****主函数****/
+/***************主函数************/
 int main(void)
 {
 	/* LED 端口初始化 */
